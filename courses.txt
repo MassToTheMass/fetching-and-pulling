@@ -1,2 +1,4 @@
 cs 2110 JavaScript
 game development 10something i think
+HTML
+python 
